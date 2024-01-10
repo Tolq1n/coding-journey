@@ -1,5 +1,6 @@
 # 171. Excel Sheet Column Number
 
+
 class Solution(object):
     def titleToNumber(self, columnTitle):
         """
