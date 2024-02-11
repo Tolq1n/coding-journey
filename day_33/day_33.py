@@ -6,5 +6,3 @@ def intersection(nums1, nums2):
             ans.append(num)
 
     return ans
-
-print(intersection([1,2,2,1],[2,2]))
