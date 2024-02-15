@@ -12,5 +12,3 @@ def commonFactors(a, b):
                 print('b>a', i)
                 s+=1
     return s
-
-print(commonFactors(25, 30))
